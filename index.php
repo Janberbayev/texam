@@ -1,6 +1,5 @@
 <?php
 include "includes/connect.php";
-include "includes/menu.php";
 include "lib/menu.php";
 
 	if (isset($_GET['page']) and !empty($_GET['page'])) {
